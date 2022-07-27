@@ -3,7 +3,7 @@
   "name": "diploma-ap",
   "type": "ap",
   "eap": "OSLO-Diploma.eap",
-  "diagram": "OSLO-Diploma",
+  "diagram": "OSLO-Diploma-test",
   "template": "OSLO-Diploma-AP.j2",
   "title": "OSLO Diploma (applicatieprofiel)",
   "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/OntwerpStandaard",
