@@ -1,6 +1,6 @@
 [
 {
-  "name": "diploma-ap",
+  "name": "leercredential-ap",
   "type": "ap",
   "eap": "OSLO-Diploma.eap",
   "diagram": "OSLO-Diploma",
